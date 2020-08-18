@@ -1,0 +1,2 @@
+# clipometer
+clipping bad
