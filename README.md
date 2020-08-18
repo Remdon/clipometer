@@ -1,2 +1,2 @@
 # clipometer
-clipping bad
+clipping bad, maximizing good!
